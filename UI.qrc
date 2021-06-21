@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>海大.png</file>
+        <file>rz.ico</file>
+    </qresource>
+</RCC>
